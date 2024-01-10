@@ -3,7 +3,7 @@
 Welcome! This repository houses a collection of Power BI projects designed to analyze data, visualize trends, support decision-making.
 ### Projects Included:
 
-***1. Global Education Dashboard***
+***1. Global Education Dashboard -***
 
 ### Key Features:
 
@@ -36,7 +36,7 @@ Although, by default, while calculating average, blank values are ignored.
 
 A single page report was created on Power BI Desktop.
 
-***2. Hotel Revenue Analysis Dashboard***
+***2. Hotel Revenue Analysis Dashboard -***
 
 ### key features:
 * Instant overview of total revenue, ADR, occupancy rate.
