@@ -2,7 +2,9 @@
 ## Description
 Welcome! This repository houses a collection of Power BI projects designed to analyze data, visualize trends, support decision-making.
 ### Projects Included:
-1. Global Education Dashboard: Brief description of the first project, including its key features and goals.
+
+### 1. Global Education Dashboard
+
 ### Key Features:
 
 * Interactive Visualizations: Engage with your data through dynamic and interactive visualizations.
@@ -34,7 +36,8 @@ Although, by default, while calculating average, blank values are ignored.
 
 A single page report was created on Power BI Desktop.
 
-2. Hotel Revenue Analysis Dashboard: 
+### 2. Hotel Revenue Analysis Dashboard
+
 ### key features:
 * Instant overview of total revenue, ADR, occupancy rate.
 * Utilize line charts, pie chart, and KPI cards for visual representation.
