@@ -3,7 +3,6 @@
 Welcome! This repository houses a collection of Power BI projects designed to analyze data, visualize trends, support decision-making.
 ### Projects Included:
 1. Global Education Dashboard: Brief description of the first project, including its key features and goals.
-
 ### Key Features:
 
 * Interactive Visualizations: Engage with your data through dynamic and interactive visualizations.
@@ -34,5 +33,25 @@ Although, by default, while calculating average, blank values are ignored.
 # Insights:
 
 A single page report was created on Power BI Desktop.
+
+2. Hotel Revenue Analysis Dashboard: 
+### key features:
+* Instant overview of total revenue, ADR, occupancy rate.
+* Utilize line charts, pie chart, and KPI cards for visual representation.
+* Analyze booking patterns and fluctuations over time.
+* Segment customers based on demographics, booking channels, and room types.
+* Identify strengths, weaknesses, and opportunities for improvement.
+
+### Steps followed:
+- Step 1 : Load data into Power BI Desktop, dataset can be a csv file, excel file or any other file.
+- Step 2 : Cleaned and transformed data for integrity and accuracy.
+- Step 3 : Created an intuitive and visually appealing layout.
+- Step 4 : Implemented various Power BI visualizations for key insights.
+- Step 5 : Enhanced interactivity with slicers, filters.
+
+# Report Snapshot (Power BI DESKTOP):
+![image](https://github.com/Radhika190/Power-BI-Dashboards/assets/128241822/8f2a6383-e6bf-4831-8be5-9544fb464f4b)
+
+
 # Thankyou
 Explore, analyze, and enjoy the power of data with this repository...
